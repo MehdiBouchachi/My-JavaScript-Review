@@ -1,5 +1,5 @@
 HELLO EVERYONE! 
 
- FIRST U NEED TO GET MY PDFs COURSE BEFORE THIS CODE
+I hope these PDFs will help you dive into interaction development without any issues
  
  HAPPY CODING :)
